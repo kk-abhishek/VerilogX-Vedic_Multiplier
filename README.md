@@ -16,8 +16,7 @@ This project implements a Vedic multiplier for 2x2, 4x4, and 8x8 bit multiplicat
 
 ## Usage
 1. Clone the repository:
-   [Click here to clone the repository](https://github.com/yourusername/vedic-multiplier.git)
+   <a href="https://github.com/kk-abhishek/VerilogX_Vedic_Multiplier.git" target="_blank">Click here to clone the repository</a>
 
-2. Simulate the design online using this:
-   ```bash
-   https://www.edaplayground.com/x/BU6p
+2. Simulation
+You can test and simulate the Vedic multiplier design on <a href="https://www.edaplayground.com/x/BU6p" target="_blank">EDA Playground</a>.
