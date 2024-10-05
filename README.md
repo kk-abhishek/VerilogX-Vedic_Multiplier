@@ -17,7 +17,7 @@ This project implements a Vedic multiplier for 2x2, 4x4, and 8x8 bit multiplicat
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kk-abhishek/VerilogX_Vedic_Multiplier.git
+   https://github.com/kk-abhishek/VerilogX_Vedic_Multiplier.git
 
 2. Simulate the design online using this:
    ```bash
